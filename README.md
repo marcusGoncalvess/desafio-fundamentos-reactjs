@@ -9,7 +9,7 @@
 ## Sobre o desafio 💪
 Nesse desafio construímos o front-end para o GoFinances. (O backend foi construido no desafio 06) <br>
 Muitos aprendizados com esse módulo de reactJS, como por exemplo, styled components, react-router-dom, formatar dados vindos do back-end, enviar arquivos para o 
-backend e mais aprendizados usando os componentes,hooks,typesscript e boas práticas de código. <br>
+backend e mais aprendizados usando os componentes,hooks,typescript e boas práticas de código. <br>
 ## Imagens do front-end 👀
 <img src="./github_assets/dashboard.png"></img>
 <img src="./github_assets/import.png"></img> <br>

@@ -11,11 +11,10 @@ Nesse desafio construímos o front-end para o GoFinances. (O backend foi constru
 Muitos aprendizados com esse módulo de reactJS, como por exemplo, styled components, react-router-dom, formatar dados vindos do back-end, enviar arquivos para o 
 backend e mais aprendizados usando os componentes,hooks,typesscript e boas práticas de código. <br>
 ## Imagens do front-end 👀
-<img src="./readme_assets/dashboard.png"></img>
-<img src="./readme_assets/import.png"></img>
-Foi usado o Jest (uma estrutura de testes criada pelo Facebook) para realizar os testes e ver se passamos no desafio, os testes eram os seguintes 🛠 <br>
-<img src="./readme_assets/testes.png"></img> <br>
+<img src="./github_assets/dashboard.png"></img>
+<img src="./github_assets/import.png"></img> <br>
 Para mais detalhes sobre o desafio e que era precisa ser feito para ser passado em cada teste, você pode ver neste <a href="https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-reactjs">link</a>.
 
 ## 3/3 Testes Concluídos 🎯
-<img src="./readme_assets/resultado.png"></img>
+Foi usado o Jest (uma estrutura de testes criada pelo Facebook) para realizar os testes e ver se passamos no desafio, os testes eram os seguintes 🛠 <br>
+<img src="./github_assets/testes.png"></img>

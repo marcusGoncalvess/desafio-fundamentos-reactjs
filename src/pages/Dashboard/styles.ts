@@ -82,6 +82,12 @@ export const TableContainer = styled.section`
       &.outcome {
         color: #e83f5b;
       }
+
+      img {
+        position: relative;
+        top: 3.5px;
+        margin-right: 5px;
+      }
     }
 
     td:first-child {
